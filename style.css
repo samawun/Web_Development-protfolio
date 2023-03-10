@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.tow-part {
+    width: 50%;
+    margin-left: 100px;
+
+}
+
+.tow-part img {
+    width: 75%;
+}
+
+.flex-container {
+
+    display: flex;
+}
+
+
+.welcome-text {
+    font-size: 50px;
+}
+
+.become-para {
+    color: dimgray;
+    margin-bottom: 50px;
+}
+
+.orange-color {
+    color: orange;
+
+}
+
+.btn a {
+    text-decoration: none;
+    background: -webkit-linear-gradient(blue, rgb(22, 185, 250));
+    padding: 10px 40px;
+    color: aliceblue;
+    border-radius: 5px;
+}
