@@ -64,3 +64,66 @@ body {
     color: dimgray;
     text-align: justify;
 }
+
+.dream-big {
+    background-image: url(img/dream-bg.png);
+}
+
+.ex-aria {
+    background-image: url(/img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+}
+
+
+.full-stake h1 {
+    font-size: 40px;
+}
+
+.full-stake p {
+    color: dimgray;
+}
+
+.full-stake h3 {
+    color: orange;
+}
+
+.full-stake {
+    box-shadow: 5px 7px 40px grey;
+    padding-left: 40px;
+    border-left: 8px solid salmon;
+
+
+}
+
+
+
+.exp {
+    margin-left: 100px;
+    font-size: 40px;
+
+}
+
+.baby {
+    box-shadow: 5px 7px 40px gray;
+    padding-left: 40px;
+    border-left: 8px solid blue;
+}
+
+.baby h1 {
+    font-size: 40px;
+}
+
+.baby p {
+    color: dimgray;
+}
+
+.baby h3 {
+    color: orange;
+}
+
+footer {
+    text-align: center;
+    color: dimgray;
+    margin-top: 300px;
+}
